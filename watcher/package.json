@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rufio",
+  "dependencies": {
+    "chokidar": "^2.0.3"
+  }
+}

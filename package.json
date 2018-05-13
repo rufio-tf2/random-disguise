@@ -1,0 +1,6 @@
+{
+  "author": "Rufio",
+  "scripts": {
+    "start": "node ./watcher"
+  }
+}
